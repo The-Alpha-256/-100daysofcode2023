@@ -1,0 +1,12 @@
+my_int=57
+my_float=3.1423467
+my_string="Hey, my Name is Charles."
+my_list=[6,7,8,9,10]
+my_tuple=(10,20,30,40)
+my_dict={'name':'Charles','Age':'20'}
+print=(f"my_int:{my_int}, Type:{type(my_int)}")
+print=(f"my_float:{my_float}, Type:{type(my_float)}")
+print=(f"my_string:{my_string}, Type:{type(my_string)}")
+print=(f"my_list:{my_list}, Type:{type(my_list)}")
+print=(f"my_tuple:{my_tuple}, Type:{type(my_tuple)}")
+print=(f"my_dict:{my_dict}, Type:{type(my_dict)}")
