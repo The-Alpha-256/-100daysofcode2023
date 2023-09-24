@@ -2,8 +2,8 @@ def summation():
         x=45*3/2+20\
         -10
         print(x)
-print("This is a statement outside the function")
 summation()
+print("This is a statement outside the function")
 def multiply():
         z=(200*50
            *2
