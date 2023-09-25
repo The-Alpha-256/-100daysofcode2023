@@ -1,0 +1,7 @@
+Name=input("Please enter your name:")
+Age=int(input("Enter your age:"))
+Number=float(input("Please enter a floating point number:"))
+ValueError:print("invalid input, please enter a valid number")
+print=(f"Name:{Name}")
+print=(f"Age:{Age}")
+print=(f"Floating-Point number:{Number}")
